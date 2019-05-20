@@ -8,7 +8,6 @@
     "graphql": "14.3.0",
     "nexus": "0.11.7",
     "nexus-prisma": "0.3.7",
-    "prisma": "^1.33.0",
     "prisma-client-lib": "1.33.0"
   },
   "devDependencies": {
@@ -17,6 +16,7 @@
     "@types/node": "10.14.7",
     "@types/ws": "6.0.1",
     "ts-node-dev": "1.0.0-pre.39",
-    "typescript": "3.4.5"
+    "typescript": "3.4.5",
+     "prisma": "^1.33.0",
   }
 }
